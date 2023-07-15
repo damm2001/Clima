@@ -35,7 +35,7 @@ let plotTWO = (data) => {
   };
 
   const config = {
-      type: 'pie',
+      type: 'bar',
       data: dataset,
   };
 
